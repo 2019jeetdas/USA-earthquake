@@ -1,0 +1,36 @@
+------- output data :-----------
+
+USA Earthquake data analysis:
+
+-----------------------------------
+
+---------------------------------------------
+Dimension of the data frame =  (157015, 20)
+---------------------------------------------
+------------------------
+ Column names as follows :
+------------------------
+
+0 --> YEAR
+1 --> MONTH
+2 --> DAY
+3 --> HOUR
+4 --> MINUTE
+5 --> SECOND
+6 --> LOCAL_TO_UTC
+7 --> UNPUB_OR_GROUPED_INT
+8 --> LATITUDE
+9 --> LONGITUDE
+10 --> MAGNITUDE
+11 --> EQ_DEPTH
+12 --> EPIDIST
+13 --> CITY_LAT
+14 --> CITY_LON
+15 --> MMI
+16 --> STATE
+17 --> CITY
+18 --> SOURCE
+19 --> COUNTRY
+
+-----------------------------
+
