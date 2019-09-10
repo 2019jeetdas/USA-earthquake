@@ -1,0 +1,23 @@
+ -*- coding: utf-8 -*-
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import random
+
+df=pd.read_csv("/home/jeet/Desktop/USA_earthquake.csv", encoding='utf-8')
+
+print("\n------- output data :-----------\n")
+print("USA Earthquake data analysis:")
+print("\n-----------------------------------\n")
+
+#-------- Question-05 : Earthquake City position plotting [where observed] ------
+
+c_lat = df['CITY_LAT'].replace(np.nan,0)
+c_lon = df['CITY_LON'].replace(np.nan,0)
+
+plt.title("[ Question - 05 ] : Earthquake City position plotting")
+plt.xlabel("latitude --->")
+plt.ylabel("longitude --->") 
+plt.scatter(c_lat,c_lon)
+plt.show()
