@@ -1,0 +1,25 @@
+-*- coding: utf-8 -*-
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import random
+
+df=pd.read_csv("/home/jeet/Desktop/USA_earthquake.csv", encoding='utf-8')
+
+print("\n------- output data :-----------\n")
+print("USA Earthquake data analysis:")
+print("\n-----------------------------------\n")
+
+#----- Yearwise number of Earthquakes & total no. -----
+
+df_yearwise = df.groupby(['YEAR'])[['MONTH']].count()
+print(df_yearwise)
+print("--------------------------------------\n")
+print("Total number of Earthquake = \n",sum(df_yearwise))
+
+plt.title("[Question-01] Number of Earthquakes yearwise ")
+plt.xlabel("Year --->")
+plt.ylabel("No. of Earthquakes ---->")
+plt.plot(df_yearwise)
+plt.show()
