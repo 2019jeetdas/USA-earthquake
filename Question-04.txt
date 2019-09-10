@@ -1,0 +1,26 @@
+ -*- coding: utf-8 -*-
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import random
+
+df=pd.read_csv("/home/jeet/Desktop/USA_earthquake.csv", encoding='utf-8')
+
+print("\n------- output data :-----------\n")
+print("USA Earthquake data analysis:")
+print("\n-----------------------------------\n")
+
+#--------- Question-04 : Epic distance and city(latitude & longitude)----
+
+print("\tPrint Epic Distance :\n-------------------------------------------\n")
+epic = df['EPIDIST'].replace(np.nan,0)
+
+for i in range(0,157015):
+    print("Earthquake = [ ",i," ] ----> Epic Distance = ",epic[i])
+
+plt.title("[ Question - 04 ] : Earthquake Epic Distance plotting")
+plt.xlabel("sl. no --->")
+plt.ylabel("Epic Distance --->") 
+plt.plot(epic)
+plt.show()
