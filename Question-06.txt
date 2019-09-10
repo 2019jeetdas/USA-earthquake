@@ -1,0 +1,29 @@
+ -*- coding: utf-8 -*-
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import random
+
+df=pd.read_csv("/home/jeet/Desktop/USA_earthquake.csv", encoding='utf-8')
+
+print("\n------- output data :-----------\n")
+print("USA Earthquake data analysis:")
+print("\n-----------------------------------\n")
+
+#------ Question-06 : Earthquake address---
+
+city = df['CITY']
+state = df['STATE']
+country = df['COUNTRY']
+
+print("Earthquake information :\n----------------------------")
+
+for i in range(0,157015):
+    print("Earthquake = [ ",i," ]\n")
+    print("City = ",city[i])
+    print("State = ",state[i])
+    print("Country = ",country[i])
+    print("----------------------------\n")
+    
+    
