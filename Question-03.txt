@@ -1,0 +1,24 @@
+-*- coding: utf-8 -*-
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import random
+
+df=pd.read_csv("/home/jeet/Desktop/USA_earthquake.csv", encoding='utf-8')
+
+print("\n------- output data :-----------\n")
+print("USA Earthquake data analysis:")
+print("\n-----------------------------------\n")
+
+#------- Question-03 : Source [latitude & longitude]------
+
+
+lat = df['LATITUDE'].replace(np.nan,0)
+lon = df['LONGITUDE'].replace(np.nan,0)
+
+plt.title("[ Question - 03 ] : Earthquake source plotting")
+plt.xlabel("latitude --->")
+plt.ylabel("longitude --->") 
+plt.scatter(lat,lon)
+plt.show()
