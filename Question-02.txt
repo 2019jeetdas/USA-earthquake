@@ -1,0 +1,33 @@
+-*- coding: utf-8 -*-
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import random
+
+df=pd.read_csv("/home/jeet/Desktop/USA_earthquake.csv", encoding='utf-8')
+
+print("\n------- output data :-----------\n")
+print("USA Earthquake data analysis:")
+print("\n-----------------------------------\n")
+
+#---- Question-02-- Earthquake date and time ------
+
+year = df['YEAR'].replace(np.nan,0)
+month = df['MONTH'].replace(np.nan,0) 
+day = df['DAY'].replace(np.nan,0)
+
+hour = df['HOUR'].replace(np.nan,0)
+minute = df['MINUTE'].replace(np.nan,0)
+sec = df['SECOND'].replace(np.nan,0)
+
+print("\t Earthquake Date and Time : \n")
+print("---------------------------------------------------------------")
+
+for i in range(0,157015):
+    print("Earthquake = [ ",i," ]\tYear = ",
+           int(year[i]),"\tMonth = ",int(month[i]),"\tDay = ",int(day[i]),
+            "------>",
+        int(hour[i])," Hour \t",int(minute[i])," Minute\t",int(sec[i])," Sec.")
+        
+        
