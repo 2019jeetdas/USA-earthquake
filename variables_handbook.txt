@@ -1,0 +1,146 @@
+[1] Year Mo Da Hr Mn Sec
+
+        The Date and Time are listed in Universal Coordinated Time and are Year, 
+         Month (Mo), Day (Da), Hour (Hr), Minute (Mn), Second (Sec)
+------------------------------------------------------------------------------------------------------------------------
+[2] UTC Conv
+
+      Number of hours to subtract from the Date and Time given in Universal Coordinated Time to 
+        get local standard time for the epicenter. 
+      
+      In general:
+            4 = 60 degree meridian (Atlantic Standard Time)
+            5 = 75 degree meridian (Eastern Standard Time)
+            6 = 90 degree meridian (Central Standard Time)
+            7 = 105 degree meridian (Mountain Standard Time)
+            8 = 120 degree meridian (Pacific Standard Time)
+            9 = 135 degree meridian (Alaska Standard Time)
+           10 = 150 degree meridian (Hawaii-Aleutian Standard Time)
+
+            Use care when converting Universal Coordinated Time to local standard time. It is uncertain how some of 
+            the conversion factors in this database were determined--for example, whether Daylight Saving Time or Standard 
+            Time was used. Many, but not all, areas represented in this database have observed Daylight Saving Time during 
+            the summer. 
+
+            Prior to 1966, states and communities that observed Daylight Saving used whatever beginning and ending 
+      dates they chose. The Uniform Time Act of 1966 provided that any area that observes Daylight Saving Time must 
+      begin and end on specified federal dates. 
+
+            The Uniform Time Act of 1966, P.L. 89-387, section 4(c), also established four time zones in Alaska:
+              
+                      Pacific Standard Time (120th meridian--southeastern Alaska--8 hours behind UTC)
+                      Yukon Standard Time (135th meridian--Yakutat--9 hours behind UTC)
+                      Alaska-Hawaii Standard Time (150th meridian--most of Alaska, from west of Yakutat to 
+                                        just east of Cold Bay, and northward--10 hours behind UTC)
+                      Bering Standard Time (165th meridian--westward from just east of Cold Bay, at the western 
+                                        end of the Alaska Peninsula--11 hours behind UTC)
+
+On October 30, 1983, the number of time zones in Alaska was reduced from four to two, which placed 90 percent of Alaska 
+on the same time, just one hour behind the U.S. West Coast; the boundary between the two zones is just west of 
+Umnak Island in the Aleutian chain:
+              
+               Alaska Standard Time (9 hours behind UTC)
+               Hawaii-Aleutian Standard Time (10 hours behind UTC)
+               
+-------------------------------------------------------------------------------------------------------------               
+[3] U/G
+
+Unpublished or grouped intensity
+    U = Intensity (MMI) assigned that was not listed in the source document.
+    G = Intensity grouped I-III in the source document was reassigned intensity III.
+----------------------------------------------------------------------------------------------------------------
+[4] EQ Lat / EQ Long
+
+This is the geographic latitude and longitude of the epicenter expressed as decimal numbers. The units are degrees. 
+The latitude range is +4.0 to +69.0, where "+" designates North latitude (there are no South latitudes in the database). 
+The longitude range is -179.0 to +180.0, where "-" designates West longitude and "+" designates East longitude. 
+Most of the epicenters are West longitude (from -56 to -179), but a few epicenters in the Philippines and Aleutian Islands
+            are East longitude (from +120 to +180).
+-------------------------------------------------------------------------------------------------------------------------
+[5] Mag
+  
+    These are magnitudes as listed in United States Earthquakes, Earthquake History of the United States 
+    (either mb, MS, or ML), or the equivalent derived from intensities for pre-instrumental events. 
+    The magnitude is a measure of seismic energy. The magnitude scale is logarithmic. 
+    
+    An increase of one in magnitude represents a tenfold increase in the recorded wave amplitude. 
+    However, the energy release associated with an increase of one in magnitude is not tenfold, but thirtyfold. 
+    For example, approximately 900 times more energy is released in an earthquake of magnitude 7 than in an 
+    earthquake of magnitude 5. Each increase in magnitude of one unit is equivalent to an increase of seismic energy 
+    of about 1,600,000,000,000 ergs.
+--------------------------------------------------------------------------------------------------------------------------
+[6] Depth (km)
+
+      Hypocentral Depth (positive downward) in kilometers from the surface.
+-----------------------------------------------------------------------------------------------------------------------      
+[7] Epi Dis
+    
+     Epicentral Distance in km that the reporting city (or locality) is located from the epicenter of the earthquake.
+-----------------------------------------------------------------------------------------------------------------------     
+[8] City Lat / City Long
+
+    This is the geographic latitude and longitude of the city (or locality) where the Modified Mercalli Intensity 
+               was observed, expressed as decimal numbers. The units are degrees. 
+    The latitude range is +6.0 to +72.0, where "+" designates North latitude (there are no South latitudes in the database). 
+    The longitude range is -177.0 to +180.0, where "-" designates West longitude and "+" designates East longitude. 
+    Most of the reporting cities (or localities) are West longitude (from -29 to -177), but a few reporting cities 
+                (or localities) in the Philippines and Aleutian Islands are East longitude (from +119 to +180).
+------------------------------------------------------------------------------------------------------------------------
+[9] MMI
+
+    Modified Mercalli Scale Intensity (MMI) is given in Roman Numerals. Values range from I to XII. 
+    (Roman Numerals were converted to numbers in the digital database. Values range from 1 to 12.) 
+    Macroseismic information is compiled from various sources including newspaper articles, foreign broadcasts, 
+    U.S. Geological Survey Earthquake reports and seismological station reports.
+    
+--------------------------------------------------------------------------------------------------------------------------   
+[10] State Code
+
+Numerical identifier for state, province, or country in which the earthquake was reported (felt) by residents:
+
+              01 Alabama          02 Alaska           03 Arizona
+              04 Arkansas         05 California       07 Colorado
+              08 Connecticut      09 Delaware         10 District of Columbia
+              11 Florida          12 Georgia          14 Hawaii
+              15 Idaho            16 Illinois         17 Indiana
+              18 Iowa             19 Kansas           20 Kentucky
+              21 Louisiana        22 Maine            23 Maryland
+              24 Massachusetts    25 Michigan         26 Minnesota
+              27 Mississippi      28 Missouri         29 Montana
+              30 Nebraska         31 Nevada           32 New Hampshire
+              33 New Jersey       34 New Mexico       35 New York
+              36 North Carolina   37 North Dakota     38 Ohio
+              39 Oklahoma         40 Oregon           41 Pennsylvania
+              42 Puerto Rico      43 Rhode Island     45 South Carolina
+              46 South Dakota     47 Tennessee        48 Texas
+              49 Utah             50 Vermont          51 Virginia
+              52 Virgin Islands   54 Washington       55 West Virginia
+              56 Wisconsin        57 Wyoming          58 West Indies
+              74 Panama           75 Philippine Is.   80 Mexico
+              81 Baja California  90 Canada           91 Alberta
+              92 Manitoba         93 Saskatchewan     94 British Columbia
+              95 Ontario          96 New Brunswick    97 Quebec
+              98 Nova Scotia      99 Yukon Territory
+-----------------------------------------------------------------------------------------------------------
+[11] City Name
+
+      City (or locality) in which the earthquake was reported (felt) by residents.
+---------------------------------------------------------------------------------------------------      
+[12] Data Source
+
+This is a code referring to the source of one or more of the reported parameters (e.g., epicenter, city and intensity).
+
+      A = Source unknown; 1925 earthquake in Boston area (reports not listed in source H).
+      B = Report by Bollinger and Stover, 1976.
+      C = Quarterly Seismological Reports, 1925-27.
+      D = Source unknown; 1937-1977 earthquakes in Hawaii, California, and eastern U.S.
+      H = Earthquake History of the United States (Coffman and others, 1982).
+      K = Report by Carnegie Institution, 1908, 1910.
+      M = Source unknown; 1899-1912 earthquakes in Alaska.
+      N = Report by Nuttli, 1973.
+      Q = Abstracts of Earthquake Reports for the United States, 1933-70.
+      S = Unpublished report by Nina Scott, 1965.
+      T = Source unknown; 1872-1904 earthquakes along U.S. west coast.
+      U = United States Earthquakes, 1928-85.  
+      W = Monthly Weather Service Seismological Reports, 1914-24.  
+------------------------------------------------------------------------------------------------------------
