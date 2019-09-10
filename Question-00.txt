@@ -1,0 +1,30 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import random
+
+df = pd.read_excel('/home/jeet/Desktop/USA_earthquake.xlsx')
+
+# converting excel file to csv file 
+
+df.to_csv("/home/jeet/Desktop/USA_earthquake.csv", encoding='utf-8',sep=',',index=False)
+
+print("\n------- output data :-----------\n")
+print("USA Earthquake data analysis:")
+print("\n-----------------------------------\n")
+
+# Question – A : get row and column numbers 
+
+print('---------------------------------------------')
+print("Dimension of the data frame = ",df.shape)
+print('---------------------------------------------')
+
+# Question – B : print column names :
+
+print('------------------------\n Column names as follows :')
+print('------------------------\n')
+count = 0
+for col in df.columns: 
+        print(count,"-->",col)
+        count = count+1
+print("\n-----------------------------\n")
