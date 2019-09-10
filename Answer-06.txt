@@ -1,0 +1,4997 @@
+Earthquake = [  3786  ]
+
+City =  KETCHIKAN
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  3787  ]
+
+City =  JUNEAU
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  3788  ]
+
+City =  HAINES
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  3789  ]
+
+City =  SITKA
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  3790  ]
+
+City =  YORBA LINDA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3791  ]
+
+City =  KNOXVILLE
+State =  TN
+Country =  USA
+----------------------------
+
+Earthquake = [  3792  ]
+
+City =  HELENA
+State =  MT
+Country =  USA
+----------------------------
+
+Earthquake = [  3793  ]
+
+City =  DEER LODGE
+State =  MT
+Country =  USA
+----------------------------
+
+Earthquake = [  3794  ]
+
+City =  MORGAN COUNTY
+State =  UT
+Country =  USA
+----------------------------
+
+Earthquake = [  3795  ]
+
+City =  WEBER COUNTY
+State =  UT
+Country =  USA
+----------------------------
+
+Earthquake = [  3796  ]
+
+City =  DAVIS COUNTY
+State =  UT
+Country =  USA
+----------------------------
+
+Earthquake = [  3797  ]
+
+City =  SALT LAKE COUNTY
+State =  UT
+Country =  USA
+----------------------------
+
+Earthquake = [  3798  ]
+
+City =  POMONA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3799  ]
+
+City =  SAN BERNARDINO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3800  ]
+
+City =  LOS ANGELES
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3801  ]
+
+City =  COLTON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3802  ]
+
+City =  SAN DIEGO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3803  ]
+
+City =  SAN PEDRO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3804  ]
+
+City =  GREEN RIVER
+State =  WA
+Country =  USA
+----------------------------
+
+Earthquake = [  3805  ]
+
+City =  TACOMA
+State =  WA
+Country =  USA
+----------------------------
+
+Earthquake = [  3806  ]
+
+City =  PORTLAND
+State =  OR
+Country =  USA
+----------------------------
+
+Earthquake = [  3807  ]
+
+City =  JULIAN
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3808  ]
+
+City =  GEORGETOWN
+State =  MA
+Country =  USA
+----------------------------
+
+Earthquake = [  3809  ]
+
+City =  SALEM
+State =  MA
+Country =  USA
+----------------------------
+
+Earthquake = [  3810  ]
+
+City =  NEWBURYPORT
+State =  MA
+Country =  USA
+----------------------------
+
+Earthquake = [  3811  ]
+
+City =  AMESBURY
+State =  MA
+Country =  USA
+----------------------------
+
+Earthquake = [  3812  ]
+
+City =  LAWRENCE
+State =  MA
+Country =  USA
+----------------------------
+
+Earthquake = [  3813  ]
+
+City =  BRANSCOMB
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3814  ]
+
+City =  FORT BRAGG
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3815  ]
+
+City =  SHIVELY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3816  ]
+
+City =  EUREKA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3817  ]
+
+City =  AGUANGA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3818  ]
+
+City =  SAN LEANDRO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3819  ]
+
+City =  OAKLAND
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3820  ]
+
+City =  GILROY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3821  ]
+
+City =  SANTA CRUZ
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3822  ]
+
+City =  NAPA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3823  ]
+
+City =  SANTA ROSA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3824  ]
+
+City =  SOCORRO
+State =  NM
+Country =  USA
+----------------------------
+
+Earthquake = [  3825  ]
+
+City =  FORTUNA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3826  ]
+
+City =  VENTURA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3827  ]
+
+City =  LOS ANGELES
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3828  ]
+
+City =  WILMINGTON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3829  ]
+
+City =  SANTA BARBARA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3830  ]
+
+City =  COALINGA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3831  ]
+
+City =  PASO ROBLES
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3832  ]
+
+City =  SAN LUIS OBISPO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3833  ]
+
+City =  SOCORRO
+State =  NM
+Country =  USA
+----------------------------
+
+Earthquake = [  3834  ]
+
+City =  KODIAK
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  3835  ]
+
+City =  SKAGWAY
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  3836  ]
+
+City =  WOODY ISLAND
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  3837  ]
+
+City =  WHITEHORSE
+State =  YT
+Country =  CANADA
+----------------------------
+
+Earthquake = [  3838  ]
+
+City =  CLARKSTON
+State =  UT
+Country =  USA
+----------------------------
+
+Earthquake = [  3839  ]
+
+City =  HOLLISTER
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3840  ]
+
+City =  SALINAS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3841  ]
+
+City =  MONTEREY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3842  ]
+
+City =  GILROY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3843  ]
+
+City =  MT HAMILTON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3844  ]
+
+City =  PETALUMA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3845  ]
+
+City =  BERKELEY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3846  ]
+
+City =  SOCORRO
+State =  NM
+Country =  USA
+----------------------------
+
+Earthquake = [  3847  ]
+
+City =  SAN JACINTO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3848  ]
+
+City =  HEMET
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3849  ]
+
+City =  SABOBA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3850  ]
+
+City =  RIVERSIDE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3851  ]
+
+City =  SAN DIEGO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3852  ]
+
+City =  SAN BERNARDINO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3853  ]
+
+City =  LOS ANGELES
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3854  ]
+
+City =  SELIGMAN
+State =  AZ
+Country =  USA
+----------------------------
+
+Earthquake = [  3855  ]
+
+City =  SAN DIEGO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3856  ]
+
+City =  MADRID (NEAR)
+State =  NY
+Country =  USA
+----------------------------
+
+Earthquake = [  3857  ]
+
+City =  OGDENSBURG
+State =  NY
+Country =  USA
+----------------------------
+
+Earthquake = [  3858  ]
+
+City =  ST LAWRENCE COUNTY
+State =  NY
+Country =  USA
+----------------------------
+
+Earthquake = [  3859  ]
+
+City =  nan
+State =  nan
+Country =  CANADA
+----------------------------
+
+Earthquake = [  3860  ]
+
+City =  SALINAS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3861  ]
+
+City =  SONOMA COUNTY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3862  ]
+
+City =  AGUANGA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3863  ]
+
+City =  LA JOLLA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3864  ]
+
+City =  SCHENECTADY
+State =  NY
+Country =  USA
+----------------------------
+
+Earthquake = [  3865  ]
+
+City =  DORCHESTER
+State =  NB
+Country =  CANADA
+----------------------------
+
+Earthquake = [  3866  ]
+
+City =  MONCTON
+State =  NB
+Country =  CANADA
+----------------------------
+
+Earthquake = [  3867  ]
+
+City =  nan
+State =  NS
+Country =  CANADA
+----------------------------
+
+Earthquake = [  3868  ]
+
+City =  nan
+State =  ME
+Country =  USA
+----------------------------
+
+Earthquake = [  3869  ]
+
+City =  KALAMAZOO
+State =  MI
+Country =  USA
+----------------------------
+
+Earthquake = [  3870  ]
+
+City =  BLOOMINGTON
+State =  IL
+Country =  USA
+----------------------------
+
+Earthquake = [  3871  ]
+
+City =  ST LOUIS
+State =  MO
+Country =  USA
+----------------------------
+
+Earthquake = [  3872  ]
+
+City =  nan
+State =  IN
+Country =  USA
+----------------------------
+
+Earthquake = [  3873  ]
+
+City =  VALDEZ
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  3874  ]
+
+City =  ARECIBO
+State =  PR
+Country =  USA TERRITORY
+----------------------------
+
+Earthquake = [  3875  ]
+
+City =  CAHUILLA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3876  ]
+
+City =  BRADLEY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3877  ]
+
+City =  ALTA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3878  ]
+
+City =  DIAMOND SPRINGS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3879  ]
+
+City =  DOWNIEVILLE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3880  ]
+
+City =  GEORGETOWN
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3881  ]
+
+City =  PANOCHE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3882  ]
+
+City =  BAYWOOD PARK
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3883  ]
+
+City =  LOS OSOS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3884  ]
+
+City =  PLYMOUTH
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3885  ]
+
+City =  GOLD RUN
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3886  ]
+
+City =  OAKDALE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3887  ]
+
+City =  FOREST
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3888  ]
+
+City =  IOWA HILL
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3889  ]
+
+City =  YANKEE JIMS PLACE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3890  ]
+
+City =  FIREBAUGH
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3891  ]
+
+City =  NORTH BROOMFIELD
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3892  ]
+
+City =  ADELAIDA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3893  ]
+
+City =  ADELAIDA ROAD
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3894  ]
+
+City =  GOODYEARS BAR
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3895  ]
+
+City =  SAN ARDO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3896  ]
+
+City =  IONE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3897  ]
+
+City =  STANISLAUS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3898  ]
+
+City =  PEACHTREE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3899  ]
+
+City =  FEATHER RIVER CANYON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3900  ]
+
+City =  WALLACE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3901  ]
+
+City =  WEIMER
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3902  ]
+
+City =  ESCOLON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3903  ]
+
+City =  PLEYTO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3904  ]
+
+City =  FARMINGTON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3905  ]
+
+City =  MODESTO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3906  ]
+
+City =  BITTERWATER
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3907  ]
+
+City =  CEDAR RIDGE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3908  ]
+
+City =  SAN LUCAS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3909  ]
+
+City =  CAMPTONVILLLE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3910  ]
+
+City =  CANYON DAM
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3911  ]
+
+City =  LOCKWOOD
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3912  ]
+
+City =  BRYSON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3913  ]
+
+City =  CLEMENTS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3914  ]
+
+City =  VIRGILIA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3915  ]
+
+City =  SAN BENITO WINERY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3916  ]
+
+City =  CARIBOU
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3917  ]
+
+City =  PRATTVILLE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3918  ]
+
+City =  BUCKS LAKE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3919  ]
+
+City =  CLIPPER MILLS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3920  ]
+
+City =  ALMANOR
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3921  ]
+
+City =  GRAYSON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3922  ]
+
+City =  JOLON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3923  ]
+
+City =  SAN SIMEON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3924  ]
+
+City =  BULLARDS BAR POWERHOUSE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3925  ]
+
+City =  VICTOR
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3926  ]
+
+City =  PACHECO PASS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3927  ]
+
+City =  CHALLENGE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3928  ]
+
+City =  ORANGEVALE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3929  ]
+
+City =  HERALD
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3930  ]
+
+City =  MT DIABLO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3931  ]
+
+City =  FRENCH CAMP
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3932  ]
+
+City =  LATHROP
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3933  ]
+
+City =  ACAMPO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3934  ]
+
+City =  STOCKTON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3935  ]
+
+City =  LINCOLN
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3936  ]
+
+City =  PIEDRAS BLANCAS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3937  ]
+
+City =  BUTTE VALLEY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3938  ]
+
+City =  VERNALIS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3939  ]
+
+City =  TRES PINOS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  3940  ]
+
+City =  HAZARD
+State =  KY
+Country =  USA
+----------------------------
+
+Earthquake = [  3941  ]
+
+City =  HARLAN
+State =  KY
+Country =  USA
+----------------------------
+
+Earthquake = [  3942  ]
+
+City =  VALDOSTA
+State =  GA
+Country =  USA
+----------------------------
+
+Earthquake = [  3943  ]
+
+City =  KNOXVILLE
+State =  TN
+Country =  USA
+----------------------------
+
+Earthquake = [  3944  ]
+
+City =  FORSYTH
+State =  GA
+Country =  USA
+----------------------------
+
+Earthquake = [  3945  ]
+
+City =  CARYVILLE
+State =  TN
+Country =  USA
+----------------------------
+
+Earthquake = [  3946  ]
+
+City =  BAINBRIDGE
+State =  GA
+Country =  USA
+----------------------------
+
+Earthquake = [  3947  ]
+
+City =  STANFORD
+State =  KY
+Country =  USA
+----------------------------
+
+Earthquake = [  3948  ]
+
+City =  RISING SUN
+State =  IN
+Country =  USA
+----------------------------
+
+Earthquake = [  3949  ]
+
+City =  LA GRANGE
+State =  GA
+Country =  USA
+----------------------------
+
+Earthquake = [  3950  ]
+
+City =  CARROLLTON
+State =  GA
+Country =  USA
+----------------------------
+
+Earthquake = [  3951  ]
+
+City =  CLINTON
+State =  KY
+Country =  USA
+----------------------------
+
+Earthquake = [  3952  ]
+
+City =  CHATTANOOGA
+State =  TN
+Country =  USA
+----------------------------
+
+Earthquake = [  3953  ]
+
+City =  MADISON
+State =  IN
+Country =  USA
+----------------------------
+
+Earthquake = [  3954  ]
+
+City =  GADSDEN
+State =  AL
+Country =  USA
+----------------------------
+
+Earthquake = [  3955  ]
+
+City =  INDIANAPOLIS
+State =  IN
+Country =  USA
+----------------------------
+
+Earthquake = [  3956  ]
+
+City =  CLANTON
+State =  AL
+Country =  USA
+----------------------------
+
+Earthquake = [  3957  ]
+
+City =  NASHVILLE
+State =  TN
+Country =  USA
+----------------------------
+
+Earthquake = [  3958  ]
+
+City =  CULLMAN
+State =  AL
+Country =  USA
+----------------------------
+
+Earthquake = [  3959  ]
+
+City =  VALPARAISO
+State =  IN
+Country =  USA
+----------------------------
+
+Earthquake = [  3960  ]
+
+City =  TERRE HAUTE
+State =  IN
+Country =  USA
+----------------------------
+
+Earthquake = [  3961  ]
+
+City =  TUSCALOOSA
+State =  AL
+Country =  USA
+----------------------------
+
+Earthquake = [  3962  ]
+
+City =  CHICAGO
+State =  IL
+Country =  USA
+----------------------------
+
+Earthquake = [  3963  ]
+
+City =  MILAN
+State =  TN
+Country =  USA
+----------------------------
+
+Earthquake = [  3964  ]
+
+City =  CAIRO
+State =  IL
+Country =  USA
+----------------------------
+
+Earthquake = [  3965  ]
+
+City =  MURPHYSBORO
+State =  IL
+Country =  USA
+----------------------------
+
+Earthquake = [  3966  ]
+
+City =  HARTFORD
+State =  CT
+Country =  USA
+----------------------------
+
+Earthquake = [  3967  ]
+
+City =  NEW HAVEN
+State =  CT
+Country =  USA
+----------------------------
+
+Earthquake = [  3968  ]
+
+City =  ALBANY
+State =  NY
+Country =  USA
+----------------------------
+
+Earthquake = [  3969  ]
+
+City =  HUDSON
+State =  NY
+Country =  USA
+----------------------------
+
+Earthquake = [  3970  ]
+
+City =  STUYVESANT
+State =  NY
+Country =  USA
+----------------------------
+
+Earthquake = [  3971  ]
+
+City =  KINGSTON
+State =  NY
+Country =  USA
+----------------------------
+
+Earthquake = [  3972  ]
+
+City =  NEW YORK
+State =  NY
+Country =  USA
+----------------------------
+
+Earthquake = [  3973  ]
+
+City =  BROOKLYN
+State =  NY
+Country =  USA
+----------------------------
+
+Earthquake = [  3974  ]
+
+City =  HACKENSACK
+State =  NJ
+Country =  USA
+----------------------------
+
+Earthquake = [  3975  ]
+
+City =  JERSEY CITY
+State =  NJ
+Country =  USA
+----------------------------
+
+Earthquake = [  3976  ]
+
+City =  NEWARK
+State =  NJ
+Country =  USA
+----------------------------
+
+Earthquake = [  3977  ]
+
+City =  ATLANTIC CITY
+State =  NJ
+Country =  USA
+----------------------------
+
+Earthquake = [  3978  ]
+
+City =  TRENTON
+State =  NJ
+Country =  USA
+----------------------------
+
+Earthquake = [  3979  ]
+
+City =  MOORESTOWN
+State =  NJ
+Country =  USA
+----------------------------
+
+Earthquake = [  3980  ]
+
+City =  CAMDEN
+State =  NJ
+Country =  USA
+----------------------------
+
+Earthquake = [  3981  ]
+
+City =  WOODBURY
+State =  NJ
+Country =  USA
+----------------------------
+
+Earthquake = [  3982  ]
+
+City =  ELMER
+State =  NJ
+Country =  USA
+----------------------------
+
+Earthquake = [  3983  ]
+
+City =  BRIDGETON
+State =  NJ
+Country =  USA
+----------------------------
+
+Earthquake = [  3984  ]
+
+City =  NEW CASTLE
+State =  DE
+Country =  USA
+----------------------------
+
+Earthquake = [  3985  ]
+
+City =  SEAFORD
+State =  DE
+Country =  USA
+----------------------------
+
+Earthquake = [  3986  ]
+
+City =  BIRDSBORO
+State =  PA
+Country =  USA
+----------------------------
+
+Earthquake = [  3987  ]
+
+City =  READING
+State =  PA
+Country =  USA
+----------------------------
+
+Earthquake = [  3988  ]
+
+City =  CAMBRIDGE
+State =  MD
+Country =  USA
+----------------------------
+
+Earthquake = [  3989  ]
+
+City =  FISH COMMISSION STATION
+State =  MD
+Country =  USA
+----------------------------
+
+Earthquake = [  3990  ]
+
+City =  NORFOLK
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  3991  ]
+
+City =  CHURCHLAND
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  3992  ]
+
+City =  ITHACA
+State =  NY
+Country =  USA
+----------------------------
+
+Earthquake = [  3993  ]
+
+City =  SUFFOLK
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  3994  ]
+
+City =  EDENTON
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  3995  ]
+
+City =  BALTIMORE
+State =  MD
+Country =  USA
+----------------------------
+
+Earthquake = [  3996  ]
+
+City =  JAMESTOWN
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  3997  ]
+
+City =  ALEXANDRIA
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  3998  ]
+
+City =  NEW BERN
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  3999  ]
+
+City =  GREENVILLE
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  4000  ]
+
+City =  FREDERICK
+State =  MD
+Country =  USA
+----------------------------
+
+Earthquake = [  4001  ]
+
+City =  PETERSBURG
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  4002  ]
+
+City =  RUTHER GLEN
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  4003  ]
+
+City =  BENSON
+State =  AZ
+Country =  USA
+----------------------------
+
+Earthquake = [  4004  ]
+
+City =  TUCSON
+State =  AZ
+Country =  USA
+----------------------------
+
+Earthquake = [  4005  ]
+
+City =  NOGALES
+State =  MXSO
+Country =  MEXICO
+----------------------------
+
+Earthquake = [  4006  ]
+
+City =  GUAYMAS
+State =  MXSO
+Country =  MEXICO
+----------------------------
+
+Earthquake = [  4007  ]
+
+City =  TOLUCA
+State =  MXME
+Country =  MEXICO
+----------------------------
+
+Earthquake = [  4008  ]
+
+City =  SANTA FE
+State =  NM
+Country =  USA
+----------------------------
+
+Earthquake = [  4009  ]
+
+City =  YUMA
+State =  AZ
+Country =  USA
+----------------------------
+
+Earthquake = [  4010  ]
+
+City =  OGDEN
+State =  UT
+Country =  USA
+----------------------------
+
+Earthquake = [  4011  ]
+
+City =  WEST WEBER
+State =  UT
+Country =  USA
+----------------------------
+
+Earthquake = [  4012  ]
+
+City =  ARVONIA
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  4013  ]
+
+City =  CARTERSVILLE
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  4014  ]
+
+City =  CARYSBROOK
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  4015  ]
+
+City =  CHARLOTTESVILLE
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  4016  ]
+
+City =  BRAWLEY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4017  ]
+
+City =  THREE RIVERS
+State =  QC
+Country =  CANADA
+----------------------------
+
+Earthquake = [  4018  ]
+
+City =  PLYMOUTH
+State =  MA
+Country =  USA
+----------------------------
+
+Earthquake = [  4019  ]
+
+City =  SALEM
+State =  MA
+Country =  USA
+----------------------------
+
+Earthquake = [  4020  ]
+
+City =  LYNN
+State =  MA
+Country =  USA
+----------------------------
+
+Earthquake = [  4021  ]
+
+City =  SHIVELY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4022  ]
+
+City =  OLIVE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4023  ]
+
+City =  ELKO
+State =  NV
+Country =  USA
+----------------------------
+
+Earthquake = [  4024  ]
+
+City =  FAIRBANKS
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  4025  ]
+
+City =  KENNECOTT
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  4026  ]
+
+City =  SEATTLE
+State =  WA
+Country =  USA
+----------------------------
+
+Earthquake = [  4027  ]
+
+City =  PORT TOWNSEND
+State =  WA
+Country =  USA
+----------------------------
+
+Earthquake = [  4028  ]
+
+City =  VICTORIA
+State =  BC
+Country =  CANADA
+----------------------------
+
+Earthquake = [  4029  ]
+
+City =  RAMPART
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  4030  ]
+
+City =  GALLUP
+State =  NM
+Country =  USA
+----------------------------
+
+Earthquake = [  4031  ]
+
+City =  WILLIAMS (NE OF)
+State =  AZ
+Country =  USA
+----------------------------
+
+Earthquake = [  4032  ]
+
+City =  PRESCOTT
+State =  AZ
+Country =  USA
+----------------------------
+
+Earthquake = [  4033  ]
+
+City =  SELIGMAN
+State =  AZ
+Country =  USA
+----------------------------
+
+Earthquake = [  4034  ]
+
+City =  KODIAK
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  4035  ]
+
+City =  YAKUTAT BAY
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  4036  ]
+
+City =  SKAGWAY
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  4037  ]
+
+City =  BARTLETT BAY
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  4038  ]
+
+City =  DUNDAS BAY
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  4039  ]
+
+City =  DRY BAY
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  4040  ]
+
+City =  VALDEZ
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  4041  ]
+
+City =  BIRCH CREEK
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  4042  ]
+
+City =  CASCADES
+State =  OR
+Country =  USA
+----------------------------
+
+Earthquake = [  4043  ]
+
+City =  PORTLAND
+State =  OR
+Country =  USA
+----------------------------
+
+Earthquake = [  4044  ]
+
+City =  MARSHLAND
+State =  OR
+Country =  USA
+----------------------------
+
+Earthquake = [  4045  ]
+
+City =  PETALUMA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4046  ]
+
+City =  SAN DIEGO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4047  ]
+
+City =  SAN JUAN CAPISTRANO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4048  ]
+
+City =  SHOSHONE
+State =  ID
+Country =  USA
+----------------------------
+
+Earthquake = [  4049  ]
+
+City =  nan
+State =  UT
+Country =  USA
+----------------------------
+
+Earthquake = [  4050  ]
+
+City =  nan
+State =  OR
+Country =  USA
+----------------------------
+
+Earthquake = [  4051  ]
+
+City =  TELLURIDE
+State =  CO
+Country =  USA
+----------------------------
+
+Earthquake = [  4052  ]
+
+City =  OURAY
+State =  CO
+Country =  USA
+----------------------------
+
+Earthquake = [  4053  ]
+
+City =  MONTROSE
+State =  CO
+Country =  USA
+----------------------------
+
+Earthquake = [  4054  ]
+
+City =  MT HAMILTON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4055  ]
+
+City =  GILROY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4056  ]
+
+City =  SAN JOSE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4057  ]
+
+City =  SANTA CRUZ
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4058  ]
+
+City =  FLAGSTAFF
+State =  AZ
+Country =  USA
+----------------------------
+
+Earthquake = [  4059  ]
+
+City =  GALLUP
+State =  NM
+Country =  USA
+----------------------------
+
+Earthquake = [  4060  ]
+
+City =  SELIGMAN
+State =  AZ
+Country =  USA
+----------------------------
+
+Earthquake = [  4061  ]
+
+City =  VALDES
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  4062  ]
+
+City =  COPPER RIVER VALLEY
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  4063  ]
+
+City =  PRINCE WILLIAM SOUND
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  4064  ]
+
+City =  TANANA VALLEY
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  4065  ]
+
+City =  FAIRBANKS
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  4066  ]
+
+City =  SWANDERS
+State =  OH
+Country =  USA
+----------------------------
+
+Earthquake = [  4067  ]
+
+City =  BOTKINS
+State =  OH
+Country =  USA
+----------------------------
+
+Earthquake = [  4068  ]
+
+City =  EAST RADFORD
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  4069  ]
+
+City =  PULASKI
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  4070  ]
+
+City =  LYNCHBURG
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  4071  ]
+
+City =  LEXINGTON
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  4072  ]
+
+City =  BEDFORD CITY
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  4073  ]
+
+City =  SALEM
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  4074  ]
+
+City =  WYTHEVILLE
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  4075  ]
+
+City =  SAN FRANCISCO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4076  ]
+
+City =  STOCKTON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4077  ]
+
+City =  SACRAMENTO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4078  ]
+
+City =  SAN JOSE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4079  ]
+
+City =  MONTEREY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4080  ]
+
+City =  ATLANTA
+State =  GA
+Country =  USA
+----------------------------
+
+Earthquake = [  4081  ]
+
+City =  RALEIGH
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  4082  ]
+
+City =  nan
+State =  TN
+Country =  USA
+----------------------------
+
+Earthquake = [  4083  ]
+
+City =  CHEROKEE COUNTY
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  4084  ]
+
+City =  LAWRENCE
+State =  KS
+Country =  USA
+----------------------------
+
+Earthquake = [  4085  ]
+
+City =  DUBUQUE
+State =  IA
+Country =  USA
+----------------------------
+
+Earthquake = [  4086  ]
+
+City =  MANHATTAN
+State =  KS
+Country =  USA
+----------------------------
+
+Earthquake = [  4087  ]
+
+City =  MARYSVILLE
+State =  KS
+Country =  USA
+----------------------------
+
+Earthquake = [  4088  ]
+
+City =  nan
+State =  OH
+Country =  USA
+----------------------------
+
+Earthquake = [  4089  ]
+
+City =  nan
+State =  NE
+Country =  USA
+----------------------------
+
+Earthquake = [  4090  ]
+
+City =  nan
+State =  MO
+Country =  USA
+----------------------------
+
+Earthquake = [  4091  ]
+
+City =  nan
+State =  KY
+Country =  USA
+----------------------------
+
+Earthquake = [  4092  ]
+
+City =  nan
+State =  IN
+Country =  USA
+----------------------------
+
+Earthquake = [  4093  ]
+
+City =  nan
+State =  IL
+Country =  USA
+----------------------------
+
+Earthquake = [  4094  ]
+
+City =  SAN DIEGO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4095  ]
+
+City =  nan
+State =  NB
+Country =  CANADA
+----------------------------
+
+Earthquake = [  4096  ]
+
+City =  nan
+State =  ME
+Country =  USA
+----------------------------
+
+Earthquake = [  4097  ]
+
+City =  MILLEDGEVILLE
+State =  GA
+Country =  USA
+----------------------------
+
+Earthquake = [  4098  ]
+
+City =  HOLLISTER
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4099  ]
+
+City =  SALINAS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4100  ]
+
+City =  GILROY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4101  ]
+
+City =  MONTEREY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4102  ]
+
+City =  SAN JOSE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4103  ]
+
+City =  SAN FRANCISCO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4104  ]
+
+City =  TEMPLETON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4105  ]
+
+City =  SACRAMENTO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4106  ]
+
+City =  NAPA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4107  ]
+
+City =  CHESTER
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4108  ]
+
+City =  SALINAS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4109  ]
+
+City =  WATSONVILLE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4110  ]
+
+City =  PLEASANTON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4111  ]
+
+City =  PATTON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4112  ]
+
+City =  HIGHLAND
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4113  ]
+
+City =  SAN BERNARDINO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4114  ]
+
+City =  CAJON PASS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4115  ]
+
+City =  REDLANDS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4116  ]
+
+City =  RIVERSIDE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4117  ]
+
+City =  POMONA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4118  ]
+
+City =  PASADENA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4119  ]
+
+City =  LOS ANGELES
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4120  ]
+
+City =  SAN DIEGO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4121  ]
+
+City =  WILLOWS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4122  ]
+
+City =  MAGALIA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4123  ]
+
+City =  NEVADA CITY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4124  ]
+
+City =  SACRAMENTO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4125  ]
+
+City =  GREENVILLE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4126  ]
+
+City =  LAKESIDE
+State =  WA
+Country =  USA
+----------------------------
+
+Earthquake = [  4127  ]
+
+City =  EUREKA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4128  ]
+
+City =  CHICAGO
+State =  IL
+Country =  USA
+----------------------------
+
+Earthquake = [  4129  ]
+
+City =  FORT WAYNE
+State =  IN
+Country =  USA
+----------------------------
+
+Earthquake = [  4130  ]
+
+City =  HARTFORD
+State =  CT
+Country =  USA
+----------------------------
+
+Earthquake = [  4131  ]
+
+City =  CHESTER
+State =  CT
+Country =  USA
+----------------------------
+
+Earthquake = [  4132  ]
+
+City =  NEW HAVEN
+State =  CT
+Country =  USA
+----------------------------
+
+Earthquake = [  4133  ]
+
+City =  WORCESTER
+State =  MA
+Country =  USA
+----------------------------
+
+Earthquake = [  4134  ]
+
+City =  BRIDGEPORT
+State =  CT
+Country =  USA
+----------------------------
+
+Earthquake = [  4135  ]
+
+City =  COLUMBUS (NEAR)
+State =  OH
+Country =  USA
+----------------------------
+
+Earthquake = [  4136  ]
+
+City =  CAPETOWN
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4137  ]
+
+City =  CAPE MENDOCINO LIGHT STA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4138  ]
+
+City =  KERN FRONT OILFIELD
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4139  ]
+
+City =  RIVERSIDE (W OF ON HWY 99)
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4140  ]
+
+City =  ALTA LOMA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4141  ]
+
+City =  BORON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4142  ]
+
+City =  ONTARIO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4143  ]
+
+City =  SAN JUAN CAPISTRANO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4144  ]
+
+City =  SAN DIMAS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4145  ]
+
+City =  WALNUT
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4146  ]
+
+City =  SANTA ANA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4147  ]
+
+City =  NEWPORT BEACH
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4148  ]
+
+City =  BALBOA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4149  ]
+
+City =  FULLERTON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4150  ]
+
+City =  LA HABRA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4151  ]
+
+City =  HUNTINGTON BEACH
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4152  ]
+
+City =  WESTMINSTER
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4153  ]
+
+City =  ARTESIA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4154  ]
+
+City =  SEAL BEACH
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4155  ]
+
+City =  PASADENA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4156  ]
+
+City =  MOJAVE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4157  ]
+
+City =  MAYWOOD
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4158  ]
+
+City =  HUNTINGTON PARK
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4159  ]
+
+City =  LOS ANGELES
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4160  ]
+
+City =  INGLEWOOD
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4161  ]
+
+City =  NORTH HOLLYWOOD
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4162  ]
+
+City =  EL SEGUNDO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4163  ]
+
+City =  WESTWOOD VILLAGE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4164  ]
+
+City =  OXNARD
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4165  ]
+
+City =  BENDELS CORNER
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4166  ]
+
+City =  WENDEN
+State =  AZ
+Country =  USA
+----------------------------
+
+Earthquake = [  4167  ]
+
+City =  PARKER
+State =  AZ
+Country =  USA
+----------------------------
+
+Earthquake = [  4168  ]
+
+City =  TOPOCK
+State =  AZ
+Country =  USA
+----------------------------
+
+Earthquake = [  4169  ]
+
+City =  VIDAL
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4170  ]
+
+City =  RICE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4171  ]
+
+City =  ESSEX
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4172  ]
+
+City =  HOLTVILLE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4173  ]
+
+City =  DESERT CENTER
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4174  ]
+
+City =  BRAWLEY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4175  ]
+
+City =  HAYFIELD PUMPING PLANT
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4176  ]
+
+City =  AMBOY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4177  ]
+
+City =  TECOPA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4178  ]
+
+City =  HIPASS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4179  ]
+
+City =  MT LAGUNA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4180  ]
+
+City =  CAMPO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4181  ]
+
+City =  RANCHITA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4182  ]
+
+City =  JULIAN
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4183  ]
+
+City =  POTRERO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4184  ]
+
+City =  ANZA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4185  ]
+
+City =  SANTA YSABEL
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4186  ]
+
+City =  NEWBURYPORT
+State =  MA
+Country =  USA
+----------------------------
+
+Earthquake = [  4187  ]
+
+City =  EXETER
+State =  NH
+Country =  USA
+----------------------------
+
+Earthquake = [  4188  ]
+
+City =  SEATTLE
+State =  WA
+Country =  USA
+----------------------------
+
+Earthquake = [  4189  ]
+
+City =  VICTORIA
+State =  BC
+Country =  CANADA
+----------------------------
+
+Earthquake = [  4190  ]
+
+City =  WALLA WALLA
+State =  WA
+Country =  USA
+----------------------------
+
+Earthquake = [  4191  ]
+
+City =  OLYMPIA
+State =  WA
+Country =  USA
+----------------------------
+
+Earthquake = [  4192  ]
+
+City =  LOS ANGELES
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4193  ]
+
+City =  SAN BERNARDINO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4194  ]
+
+City =  RIVERSIDE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4195  ]
+
+City =  SIERRA MADRE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4196  ]
+
+City =  TEJON (NEAR FORT)
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4197  ]
+
+City =  SAN DIEGO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4198  ]
+
+City =  SAN FERNANDO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4199  ]
+
+City =  VENTURA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4200  ]
+
+City =  SANTA BARBARA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4201  ]
+
+City =  SAN BERNARDINO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4202  ]
+
+City =  VENTURA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4203  ]
+
+City =  VISALIA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4204  ]
+
+City =  VENTURA (SAN BUENAVENTURA)
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4205  ]
+
+City =  SAN FRANCISCO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4206  ]
+
+City =  LOS ANGELES
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4207  ]
+
+City =  SACRAMENTO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4208  ]
+
+City =  MONTEREY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4209  ]
+
+City =  STOCKTON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4210  ]
+
+City =  BENSONS FERRY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4211  ]
+
+City =  YUMA (NEAR FORT)
+State =  AZ
+Country =  USA
+----------------------------
+
+Earthquake = [  4212  ]
+
+City =  AURORA
+State =  IL
+Country =  USA
+----------------------------
+
+Earthquake = [  4213  ]
+
+City =  MORRIS
+State =  IL
+Country =  USA
+----------------------------
+
+Earthquake = [  4214  ]
+
+City =  YORKVILLE
+State =  IL
+Country =  USA
+----------------------------
+
+Earthquake = [  4215  ]
+
+City =  FREEPORT
+State =  IL
+Country =  USA
+----------------------------
+
+Earthquake = [  4216  ]
+
+City =  CHICAGO
+State =  IL
+Country =  USA
+----------------------------
+
+Earthquake = [  4217  ]
+
+City =  MILWAUKEE
+State =  WI
+Country =  USA
+----------------------------
+
+Earthquake = [  4218  ]
+
+City =  FULTON COUNTY
+State =  KY
+Country =  USA
+----------------------------
+
+Earthquake = [  4219  ]
+
+City =  MADISON
+State =  WI
+Country =  USA
+----------------------------
+
+Earthquake = [  4220  ]
+
+City =  nan
+State =  IA
+Country =  USA
+----------------------------
+
+Earthquake = [  4221  ]
+
+City =  nan
+State =  IN
+Country =  USA
+----------------------------
+
+Earthquake = [  4222  ]
+
+City =  SAN FRANCISCO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4223  ]
+
+City =  STOCKTON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4224  ]
+
+City =  SANTA CLARA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4225  ]
+
+City =  SAN JOSE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4226  ]
+
+City =  WARREN
+State =  AR
+Country =  USA
+----------------------------
+
+Earthquake = [  4227  ]
+
+City =  RISON
+State =  AR
+Country =  USA
+----------------------------
+
+Earthquake = [  4228  ]
+
+City =  MEMPHIS
+State =  TN
+Country =  USA
+----------------------------
+
+Earthquake = [  4229  ]
+
+City =  VICKSBURG
+State =  MS
+Country =  USA
+----------------------------
+
+Earthquake = [  4230  ]
+
+City =  VICKSBURG
+State =  MS
+Country =  USA
+----------------------------
+
+Earthquake = [  4231  ]
+
+City =  nan
+State =  LA
+Country =  USA
+----------------------------
+
+Earthquake = [  4232  ]
+
+City =  KEOKUK
+State =  IA
+Country =  USA
+----------------------------
+
+Earthquake = [  4233  ]
+
+City =  nan
+State =  TN
+Country =  USA
+----------------------------
+
+Earthquake = [  4234  ]
+
+City =  BRASSTOWN
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  4235  ]
+
+City =  nan
+State =  SC
+Country =  USA
+----------------------------
+
+Earthquake = [  4236  ]
+
+City =  nan
+State =  GA
+Country =  USA
+----------------------------
+
+Earthquake = [  4237  ]
+
+City =  SALT LAKE CITY
+State =  UT
+Country =  USA
+----------------------------
+
+Earthquake = [  4238  ]
+
+City =  OGDEN
+State =  UT
+Country =  USA
+----------------------------
+
+Earthquake = [  4239  ]
+
+City =  WATSONVILLE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4240  ]
+
+City =  SPRECKELS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4241  ]
+
+City =  COYOTE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4242  ]
+
+City =  SAN FRANCISCO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4243  ]
+
+City =  ROCK CREEK CANYON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4244  ]
+
+City =  BISHOP
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4245  ]
+
+City =  BAKERSFIELD
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4246  ]
+
+City =  HOLLISTER
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4247  ]
+
+City =  SACRAMENTO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4248  ]
+
+City =  FAIRBANKS
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  4249  ]
+
+City =  YELLOWSTONE NATIONAL PARK
+State =  WY
+Country =  USA
+----------------------------
+
+Earthquake = [  4250  ]
+
+City =  nan
+State =  AK
+Country =  USA
+----------------------------
+
+Earthquake = [  4251  ]
+
+City =  SAN JOSE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4252  ]
+
+City =  MOUNT RAINIER
+State =  WA
+Country =  USA
+----------------------------
+
+Earthquake = [  4253  ]
+
+City =  GREENFIELD VILLAGE
+State =  MI
+Country =  USA
+----------------------------
+
+Earthquake = [  4254  ]
+
+City =  REDFORD
+State =  MI
+Country =  USA
+----------------------------
+
+Earthquake = [  4255  ]
+
+City =  DRAKESBAD
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4256  ]
+
+City =  MONTREAL
+State =  QC
+Country =  CANADA
+----------------------------
+
+Earthquake = [  4257  ]
+
+City =  PISCATAQUA
+State =  NH
+Country =  USA
+----------------------------
+
+Earthquake = [  4258  ]
+
+City =  BOSTON
+State =  MA
+Country =  USA
+----------------------------
+
+Earthquake = [  4259  ]
+
+City =  ANNAPOLIS
+State =  MD
+Country =  USA
+----------------------------
+
+Earthquake = [  4260  ]
+
+City =  LONE PINE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4261  ]
+
+City =  WOBURN
+State =  MA
+Country =  USA
+----------------------------
+
+Earthquake = [  4262  ]
+
+City =  QUEBEC
+State =  QC
+Country =  CANADA
+----------------------------
+
+Earthquake = [  4263  ]
+
+City =  MONTREAL
+State =  QC
+Country =  CANADA
+----------------------------
+
+Earthquake = [  4264  ]
+
+City =  PORTLAND
+State =  ME
+Country =  USA
+----------------------------
+
+Earthquake = [  4265  ]
+
+City =  CLEVELAND
+State =  OH
+Country =  USA
+----------------------------
+
+Earthquake = [  4266  ]
+
+City =  ALBANY
+State =  NY
+Country =  USA
+----------------------------
+
+Earthquake = [  4267  ]
+
+City =  LAKE GEORGE
+State =  NY
+Country =  USA
+----------------------------
+
+Earthquake = [  4268  ]
+
+City =  NEW YORK
+State =  NY
+Country =  USA
+----------------------------
+
+Earthquake = [  4269  ]
+
+City =  RICHMOND
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  4270  ]
+
+City =  JEFFERSON
+State =  MD
+Country =  USA
+----------------------------
+
+Earthquake = [  4271  ]
+
+City =  RICHLANDS
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  4272  ]
+
+City =  KINSTON
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  4273  ]
+
+City =  ENFIELD
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  4274  ]
+
+City =  BOALSBURG
+State =  PA
+Country =  USA
+----------------------------
+
+Earthquake = [  4275  ]
+
+City =  MASONBORO
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  4276  ]
+
+City =  WARSAW
+State =  NY
+Country =  USA
+----------------------------
+
+Earthquake = [  4277  ]
+
+City =  MADISON
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  4278  ]
+
+City =  CLINTON
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  4279  ]
+
+City =  NEW SUPPLY
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  4280  ]
+
+City =  NEW STORE
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  4281  ]
+
+City =  OXFORD
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  4282  ]
+
+City =  DURHAM
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  4283  ]
+
+City =  JONESBORO
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  4284  ]
+
+City =  PLANTERSVILLE
+State =  SC
+Country =  USA
+----------------------------
+
+Earthquake = [  4285  ]
+
+City =  JAMESTOWN
+State =  NY
+Country =  USA
+----------------------------
+
+Earthquake = [  4286  ]
+
+City =  YOUNGSVILLE
+State =  PA
+Country =  USA
+----------------------------
+
+Earthquake = [  4287  ]
+
+City =  CARTHAGE
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  4288  ]
+
+City =  KINGSBURG
+State =  SC
+Country =  USA
+----------------------------
+
+Earthquake = [  4289  ]
+
+City =  MARS BLUFF
+State =  SC
+Country =  USA
+----------------------------
+
+Earthquake = [  4290  ]
+
+City =  TITUSVILLE
+State =  PA
+Country =  USA
+----------------------------
+
+Earthquake = [  4291  ]
+
+City =  CASHUA FERRY
+State =  SC
+Country =  USA
+----------------------------
+
+Earthquake = [  4292  ]
+
+City =  ROCKINGHAM
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  4293  ]
+
+City =  CLIFTON FORGE
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  4294  ]
+
+City =  KINGSTREE
+State =  SC
+Country =  USA
+----------------------------
+
+Earthquake = [  4295  ]
+
+City =  MARTINSVILLE
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  4296  ]
+
+City =  WADEVILLE
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  4297  ]
+
+City =  PITTSBURGH
+State =  PA
+Country =  USA
+----------------------------
+
+Earthquake = [  4298  ]
+
+City =  GRAFTON
+State =  WV
+Country =  USA
+----------------------------
+
+Earthquake = [  4299  ]
+
+City =  WADESBORO
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  4300  ]
+
+City =  MEADVILLE
+State =  PA
+Country =  USA
+----------------------------
+
+Earthquake = [  4301  ]
+
+City =  ALBEMARLE
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  4302  ]
+
+City =  MAYESVILLE
+State =  SC
+Country =  USA
+----------------------------
+
+Earthquake = [  4303  ]
+
+City =  BUCKHANNON
+State =  WV
+Country =  USA
+----------------------------
+
+Earthquake = [  4304  ]
+
+City =  BEAVER FALLS
+State =  PA
+Country =  USA
+----------------------------
+
+Earthquake = [  4305  ]
+
+City =  NEW CASTLE
+State =  PA
+Country =  USA
+----------------------------
+
+Earthquake = [  4306  ]
+
+City =  HUNTING I. LIGHT STA
+State =  SC
+Country =  USA
+----------------------------
+
+Earthquake = [  4307  ]
+
+City =  SALISBURY
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  4308  ]
+
+City =  CAPE CANAVERAL LIGHTHOUSE
+State =  FL
+Country =  USA
+----------------------------
+
+Earthquake = [  4309  ]
+
+City =  KINGSVILLE
+State =  SC
+Country =  USA
+----------------------------
+
+Earthquake = [  4310  ]
+
+City =  BEAR POPLAR
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  4311  ]
+
+City =  WHEELING
+State =  WV
+Country =  USA
+----------------------------
+
+Earthquake = [  4312  ]
+
+City =  MOUNDSVILLE
+State =  WV
+Country =  USA
+----------------------------
+
+Earthquake = [  4313  ]
+
+City =  STATESVILLE
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  4314  ]
+
+City =  CEDAR SHOAL
+State =  SC
+Country =  USA
+----------------------------
+
+Earthquake = [  4315  ]
+
+City =  MIDWAY
+State =  SC
+Country =  USA
+----------------------------
+
+Earthquake = [  4316  ]
+
+City =  ROCK HILL
+State =  SC
+Country =  USA
+----------------------------
+
+Earthquake = [  4317  ]
+
+City =  NEW SMYRNA
+State =  FL
+Country =  USA
+----------------------------
+
+Earthquake = [  4318  ]
+
+City =  VARNVILLE
+State =  SC
+Country =  USA
+----------------------------
+
+Earthquake = [  4319  ]
+
+City =  WYTHEVILLE
+State =  VA
+Country =  USA
+----------------------------
+
+Earthquake = [  4320  ]
+
+City =  HAMPTON
+State =  SC
+Country =  USA
+----------------------------
+
+Earthquake = [  4321  ]
+
+City =  WOODWARD
+State =  SC
+Country =  USA
+----------------------------
+
+Earthquake = [  4322  ]
+
+City =  YORK
+State =  SC
+Country =  USA
+----------------------------
+
+Earthquake = [  4323  ]
+
+City =  CHESTER
+State =  SC
+Country =  USA
+----------------------------
+
+Earthquake = [  4324  ]
+
+City =  DE LAND
+State =  FL
+Country =  USA
+----------------------------
+
+Earthquake = [  4325  ]
+
+City =  DENNISON
+State =  OH
+Country =  USA
+----------------------------
+
+Earthquake = [  4326  ]
+
+City =  KINGS MOUNTAIN
+State =  NC
+Country =  USA
+----------------------------
+
+Earthquake = [  4327  ]
+
+City =  CANTON
+State =  OH
+Country =  USA
+----------------------------
+
+Earthquake = [  4328  ]
+
+City =  ORLANDO
+State =  FL
+Country =  USA
+----------------------------
+
+Earthquake = [  4329  ]
+
+City =  GUYTON
+State =  GA
+Country =  USA
+----------------------------
+
+Earthquake = [  4330  ]
+
+City =  EDEN
+State =  GA
+Country =  USA
+----------------------------
+
+Earthquake = [  4331  ]
+
+City =  WILLISTON
+State =  SC
+Country =  USA
+----------------------------
+
+Earthquake = [  4332  ]
+
+City =  STEEDMAN
+State =  SC
+Country =  USA
+----------------------------
+
+Earthquake = [  4333  ]
+
+City =  NEW PHILADELPHIA
+State =  OH
+Country =  USA
+----------------------------
+
+Earthquake = [  4334  ]
+
+City =  MARIETTA
+State =  OH
+Country =  USA
+----------------------------
+
+Earthquake = [  4335  ]
+
+City =  BRUNSWICK
+State =  GA
+Country =  USA
+----------------------------
+
+Earthquake = [  4336  ]
+
+City =  LEESVILLE
+State =  SC
+Country =  USA
+----------------------------
+
+Earthquake = [  4337  ]
+
+City =  CRESCENT CITY
+State =  FL
+Country =  USA
+----------------------------
+
+Earthquake = [  4338  ]
+
+City =  MASSILLON
+State =  OH
+Country =  USA
+----------------------------
+
+Earthquake = [  4339  ]
+
+City =  SORRENTO
+State =  FL
+Country =  USA
+----------------------------
+
+Earthquake = [  4340  ]
+
+City =  ARCOLA
+State =  GA
+Country =  USA
+----------------------------
+
+Earthquake = [  4341  ]
+
+City =  NEWBERRY
+State =  SC
+Country =  USA
+----------------------------
+
+Earthquake = [  4342  ]
+
+City =  BIRDS LANDING
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4343  ]
+
+City =  SUNOL
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4344  ]
+
+City =  CLAYTON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4345  ]
+
+City =  FAIRFIELD
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4346  ]
+
+City =  PALO ALTO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4347  ]
+
+City =  MORAGA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4348  ]
+
+City =  VALLEJO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4349  ]
+
+City =  NAPA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4350  ]
+
+City =  OAKLAND
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4351  ]
+
+City =  RICHMOND
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4352  ]
+
+City =  HALF MOON BAY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4353  ]
+
+City =  SAUSALITO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4354  ]
+
+City =  SHARP PARK
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4355  ]
+
+City =  SAN RAFAEL
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4356  ]
+
+City =  PETALUMA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4357  ]
+
+City =  BOLINAS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4358  ]
+
+City =  INVERNESS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4359  ]
+
+City =  SONOMA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4360  ]
+
+City =  HOLLISTER
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4361  ]
+
+City =  BEECHWOOD
+State =  KS
+Country =  USA
+----------------------------
+
+Earthquake = [  4362  ]
+
+City =  WICHITA
+State =  KS
+Country =  USA
+----------------------------
+
+Earthquake = [  4363  ]
+
+City =  EUREKA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4364  ]
+
+City =  CHUALAR CANYON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4365  ]
+
+City =  WILDOMAR
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4366  ]
+
+City =  ELSINORE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4367  ]
+
+City =  MARTINEZ
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4368  ]
+
+City =  BROKEN BOW
+State =  NE
+Country =  USA
+----------------------------
+
+Earthquake = [  4369  ]
+
+City =  OVANDO
+State =  MT
+Country =  USA
+----------------------------
+
+Earthquake = [  4370  ]
+
+City =  REDONDO BEACH
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4371  ]
+
+City =  DUNLAP
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4372  ]
+
+City =  SOMIS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4373  ]
+
+City =  OXNARD
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4374  ]
+
+City =  HUNTINGTON PARK
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4375  ]
+
+City =  LOS ANGELES
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4376  ]
+
+City =  VENICE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4377  ]
+
+City =  CORNELL
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4378  ]
+
+City =  MOORPARK
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4379  ]
+
+City =  CAMARILLO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4380  ]
+
+City =  VENTURA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4381  ]
+
+City =  LONG BEACH
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4382  ]
+
+City =  COMPTON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4383  ]
+
+City =  SAN PEDRO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4384  ]
+
+City =  HERMOSA BEACH
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4385  ]
+
+City =  EL SEGUNDO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4386  ]
+
+City =  VAN NUYS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4387  ]
+
+City =  SANTA MONICA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4388  ]
+
+City =  CHATSWORTH
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4389  ]
+
+City =  CANOGA PARK
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4390  ]
+
+City =  SANTA SUSANA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4391  ]
+
+City =  SIMI
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4392  ]
+
+City =  FILLMORE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4393  ]
+
+City =  PORT HUENEME
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4394  ]
+
+City =  CARPINTERIA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4395  ]
+
+City =  SANTA BARBARA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4396  ]
+
+City =  SAN DIMAS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4397  ]
+
+City =  FULLERTON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4398  ]
+
+City =  LA HABRA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4399  ]
+
+City =  CLAREMONT
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4400  ]
+
+City =  AZUSA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4401  ]
+
+City =  LONE PINE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4402  ]
+
+City =  BISHOP
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4403  ]
+
+City =  BAKERSFIELD
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4404  ]
+
+City =  HUENEME LIGHT HOUSE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4405  ]
+
+City =  CARPINTERIA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4406  ]
+
+City =  JUPITER
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4407  ]
+
+City =  SIERRA VALLEY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4408  ]
+
+City =  ALTURAS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4409  ]
+
+City =  MILTON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4410  ]
+
+City =  SIERRAVILLE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4411  ]
+
+City =  QUINCY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4412  ]
+
+City =  EMMET POST OFFICE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4413  ]
+
+City =  BELLS STATION
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4414  ]
+
+City =  CARMEL VALLEY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4415  ]
+
+City =  BLACKS STATION
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4416  ]
+
+City =  CARMEL POST OFFICE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4417  ]
+
+City =  BONNY DOON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4418  ]
+
+City =  EL JARRO POINT
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4419  ]
+
+City =  SITE NUMBER 50
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4420  ]
+
+City =  DUNSMUIR
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4421  ]
+
+City =  ELK CREEK
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4422  ]
+
+City =  DENNY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4423  ]
+
+City =  ORLEANS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4424  ]
+
+City =  NEEDLES
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4425  ]
+
+City =  PICACHO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4426  ]
+
+City =  POTHOLES
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4427  ]
+
+City =  PALO VERDE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4428  ]
+
+City =  MIDLAND
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4429  ]
+
+City =  OGILBY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4430  ]
+
+City =  NIPTON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4431  ]
+
+City =  IVANPAH
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4432  ]
+
+City =  NILAND
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4433  ]
+
+City =  KELSO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4434  ]
+
+City =  POPE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4435  ]
+
+City =  KANE SPRINGS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4436  ]
+
+City =  PLASTER CITY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4437  ]
+
+City =  KLONDIKE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4438  ]
+
+City =  INDIO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4439  ]
+
+City =  JULIAN
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4440  ]
+
+City =  OAKZANITA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4441  ]
+
+City =  NELLIE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4442  ]
+
+City =  LA MESA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4443  ]
+
+City =  PALA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4444  ]
+
+City =  NATIONAL CITY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4445  ]
+
+City =  PERRIS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4446  ]
+
+City =  POINT CABRILLO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4447  ]
+
+City =  ORO GRANDE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4448  ]
+
+City =  JAMESON
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4449  ]
+
+City =  LYTLE CREEK
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4450  ]
+
+City =  PHELAN
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4451  ]
+
+City =  ONTARIO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4452  ]
+
+City =  POMONA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4453  ]
+
+City =  LA VERNE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4454  ]
+
+City =  MT OWEN
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4455  ]
+
+City =  INYOKERN
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4456  ]
+
+City =  OLINDA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4457  ]
+
+City =  ORANGE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4458  ]
+
+City =  KEELER
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4459  ]
+
+City =  OASIS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4460  ]
+
+City =  LITTLE LAKE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4461  ]
+
+City =  LITTLEROCK
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4462  ]
+
+City =  MONROVIA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4463  ]
+
+City =  OLANCHA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4464  ]
+
+City =  OWENYO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4465  ]
+
+City =  NORWALK
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4466  ]
+
+City =  MONTEBELLO
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4467  ]
+
+City =  PALMDALE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4468  ]
+
+City =  PASADENA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4469  ]
+
+City =  LANCASTER
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4470  ]
+
+City =  LAKEWOOD
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4471  ]
+
+City =  MOJAVE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4472  ]
+
+City =  MAYWOOD
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4473  ]
+
+City =  ONYX
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4474  ]
+
+City =  POINT FERMIN
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4475  ]
+
+City =  INGLEWOOD
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4476  ]
+
+City =  LAWS
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4477  ]
+
+City =  MANHATTAN BEACH
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4478  ]
+
+City =  ISABELLA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4479  ]
+
+City =  SANTA MONICA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4480  ]
+
+City =  KEENE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4481  ]
+
+City =  MORGAN MOUNTAIN
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4482  ]
+
+City =  PIRU
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4483  ]
+
+City =  LEBEC
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4484  ]
+
+City =  MOORPARK
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4485  ]
+
+City =  LAMONT
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4486  ]
+
+City =  KAWEAH
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4487  ]
+
+City =  OIL CITY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4488  ]
+
+City =  PORTERVILLE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4489  ]
+
+City =  VENTURA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4490  ]
+
+City =  JUNE LAKE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4491  ]
+
+City =  LINDSAY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4492  ]
+
+City =  SEQUOIA
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4493  ]
+
+City =  MONO LAKE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4494  ]
+
+City =  LAKESHORE
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4495  ]
+
+City =  OXNARD
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4496  ]
+
+City =  MCFARLAND
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4497  ]
+
+City =  OJAI
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4498  ]
+
+City =  PIXLEY
+State =  CA
+Country =  USA
+----------------------------
+
+Earthquake = [  4499  ]
+
+City =  MARICOPA
+State =  CA
+Country =  USA
+----------------------------
